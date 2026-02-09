@@ -14,6 +14,14 @@
 - [sapui5-invoice-tracker](https://github.com/your-username/sapui5-invoice-tracker) – UI5 app to track and manage invoices.
 - [sapui5-sales-dashboard](https://github.com/your-username/sapui5-sales-dashboard) – A KPI-based sales visualization dashboard.
 
+### 🔷 Javascript
+- [sapui5-invoice-tracker](https://github.com/your-username/sapui5-invoice-tracker) – UI5 app to track and manage invoices.
+- [sapui5-sales-dashboard](https://github.com/your-username/sapui5-sales-dashboard) – A KPI-based sales visualization dashboard.
+
+### 🔷 LeetCode
+- [sapui5-invoice-tracker](https://github.com/your-username/sapui5-invoice-tracker) – UI5 app to track and manage invoices.
+- [sapui5-sales-dashboard](https://github.com/your-username/sapui5-sales-dashboard) – A KPI-based sales visualization dashboard.
+
 ### 🐍 Python
 - [python-data-cleaning](https://github.com/your-username/python-data-cleaning) – Scripts for cleaning large datasets using Pandas.
 - [flask-todo-api](https://github.com/your-username/flask-todo-api) – A simple REST API for managing todos.
